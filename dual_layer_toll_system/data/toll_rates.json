@@ -1,0 +1,8 @@
+{
+  "CAR": 50,
+  "TRUCK": 120,
+  "BUS": 80,
+  "BIKE": 20,
+  "HEAVY_VEHICLE": 150,
+  "EMERGENCY": 0
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "plate_number": "MH01AB1234",
+    "owner_name": "Owner_1",
+    "vehicle_type": "CAR",
+    "registration_date": "2023-01-01",
+    "expiry_date": "2028-01-01",
+    "is_active": true
+  },
+  {
+    "plate_number": "DL02CD5678",
+    "owner_name": "Owner_2",
+    "vehicle_type": "TRUCK",
+    "registration_date": "2023-02-01",
+    "expiry_date": "2028-02-01",
+    "is_active": true
+  },
+  {
+    "plate_number": "KA03EF9012",
+    "owner_name": "Owner_3",
+    "vehicle_type": "BUS",
+    "registration_date": "2023-03-01",
+    "expiry_date": "2028-03-01",
+    "is_active": true
+  },
+  {
+    "plate_number": "TN04GH3456",
+    "owner_name": "Owner_4",
+    "vehicle_type": "BIKE",
+    "registration_date": "2023-04-01",
+    "expiry_date": "2028-04-01",
+    "is_active": true
+  },
+  {
+    "plate_number": "UP05IJ7890",
+    "owner_name": "Owner_5",
+    "vehicle_type": "CAR",
+    "registration_date": "2023-05-01",
+    "expiry_date": "2028-05-01",
+    "is_active": true
+  }
+]

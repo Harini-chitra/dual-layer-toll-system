@@ -1,0 +1,4 @@
+{'timestamp': '2025-10-17 02:10:24', 'violation_type': 'UNAUTHORIZED_PLATE', 'plate': 'KA62MP', 'driver_safe': True}
+{'timestamp': '2025-10-17 02:10:40', 'violation_type': 'UNAUTHORIZED_PLATE', 'plate': 'KA62HP9657', 'driver_safe': True}
+{'timestamp': '2025-10-17 02:10:55', 'violation_type': 'UNAUTHORIZED_PLATE', 'plate': 'KA62HP9657', 'driver_safe': True}
+{'timestamp': '2025-10-17 02:19:20', 'violation_type': 'UNAUTHORIZED_PLATE', 'plate': '62HP', 'driver_safe': True}
