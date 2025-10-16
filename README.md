@@ -2,8 +2,6 @@
 
 > **An innovative automated toll collection system integrating License Plate Recognition with Driver Drowsiness Detection for enhanced road safety and security.**
 
-![System Demo](https://via.placeholder.com/800x400?text=Dual-Layer+Smart+Toll+SystemTable of Contents**
-
 - [Overview](#-overview)
 - [Features](#-features)
 - [System Architecture](#-system-architecture)
@@ -58,33 +56,8 @@ A comprehensive automated system that combines vehicle authentication with drive
 
 ## 🏗️ **System Architecture**
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                 DUAL-LAYER TOLL SYSTEM                     │
-├─────────────────────────────────────────────────────────────┤
-│  MAIN CONTROLLER: SimpleTollSystem                         │
-│  ├── Camera Connection Testing                             │
-│  ├── Step-by-step Workflow Orchestration                   │
-│  └── Error Handling & Resource Management                  │
-├─────────────────────────────────────────────────────────────┤
-│  INTEGRATION LAYER: DualLayerTollSystem                    │
-│  ├── License Plate Recognizer                             │
-│  ├── Drowsiness Detector                                  │
-│  └── Configuration Management                             │
-├─────────────────────────────────────────────────────────────┤
-│  PROCESSING MODULES                                        │
-│  ┌─────────────────┬─────────────────┬─────────────────┐    │
-│  │ STEP 1:         │ STEP 2:         │ STEP 3:         │    │
-│  │ Face Detection  │ Plate Recognition│ Decision Engine │    │
-│  │ & Drowsiness    │ & Validation    │ & Logging       │    │
-│  └─────────────────┴─────────────────┴─────────────────┘    │
-├─────────────────────────────────────────────────────────────┤
-│  DATA LAYER                                               │
-│  ├── Camera Input (640x480, 30fps)                       │
-│  ├── Authorization Database                               │
-│  └── Violation Logs & Result Display                     │
-└─────────────────────────────────────────────────────────────┘
-```
+<img width="1125" height="921" alt="image" src="https://github.com/user-attachments/assets/c40d8ccf-b243-4d69-a5dc-a48c9bc0c7fb" />
+
 
 ## 🚀 **Installation**
 
@@ -286,7 +259,7 @@ of this software and associated documentation files...
 
 ## 👥 **Authors**
 
-- **Chitra Harini** - *Lead Developer* - [@yourusername](https://github.com/Harini-chitra)
+- **Chitra Harini** - *Lead Developer* - [@Harini](https://github.com/Harini-chitra)
 - **Prattipati Anshitha** - *Contributors* - [Contributors List](https://github.com/yourusername/dual-layer-toll-system/contributors)
 
 ## 🙏 **Acknowledgments**
@@ -309,14 +282,3 @@ of this software and associated documentation files...
 **⭐ If you find this project helpful, please consider giving it a star on GitHub! ⭐**
 
 **Made with ❤️ for safer and smarter transportation systems**
-
-[1](https://github.com/othneildrew/Best-README-Template)
-[2](https://realpython.com/readme-python-project/)
-[3](https://github.com/catiaspsilva/README-template)
-[4](https://www.makeareadme.com)
-[5](https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka)
-[6](https://git.ifas.rwth-aachen.de/templates/ifas-python-template/-/blob/master/README.md)
-[7](https://github.com/topics/readme-template?l=python&o=desc&s=updated)
-[8](https://www.readme-templates.com)
-
-[9](https://www.reddit.com/r/programming/comments/l0mgcy/github_readme_templates_creating_a_good_readme_is/)
